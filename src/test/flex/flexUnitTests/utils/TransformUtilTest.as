@@ -13,7 +13,7 @@ package flexUnitTests.utils
 	import watercolor.utils.TransformUtil;
 
 
-	public class TransformUtilTests
+	public class TransformUtilTest
 	{
 		private var element:Element;
 

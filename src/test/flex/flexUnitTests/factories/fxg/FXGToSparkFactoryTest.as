@@ -17,7 +17,7 @@ package flexUnitTests.factories.fxg
 	import watercolor.factories.fxg.RectFactory;
 	import watercolor.factories.fxg.util.URIManager;
 	
-	public class FXGToSparkFactoryTests
+	public class FXGToSparkFactoryTest
 	{		
 		[Before]
 		public function setUp():void

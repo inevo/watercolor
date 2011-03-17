@@ -12,7 +12,7 @@ package flexUnitTests.commands.execUtils
 	import watercolor.elements.Element;
 	import watercolor.elements.Rect;
 
-	public class DeleteExecuteTests
+	public class DeleteExecuteTest
 	{
 
 		public var vo:DeleteVO;

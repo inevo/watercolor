@@ -8,3 +8,5 @@ bin
 .sourceMate
 .FlexUnitSettings
 src/FlexUnitApplication.mxml
+*.iml
+*.ipr

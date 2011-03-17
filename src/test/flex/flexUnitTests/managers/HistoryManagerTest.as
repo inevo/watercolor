@@ -6,7 +6,7 @@ package flexUnitTests.managers
     import watercolor.elements.Rect;
     import watercolor.managers.HistoryManager;
 
-    public class HistoryManagerTests
+    public class HistoryManagerTest
     {
         private var historyManager:HistoryManager;
 

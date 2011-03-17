@@ -1,6 +1,6 @@
 package flexUnitTests.commands.execUtils
 {
-	public class GroupExecuteTests
+	public class GroupExecuteTest
 	{		
 		//TODO: Add Unit Tests for GroupExecute
 		

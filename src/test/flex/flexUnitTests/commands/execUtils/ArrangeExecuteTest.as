@@ -12,7 +12,7 @@ package flexUnitTests.commands.execUtils
 	import watercolor.elements.Element;
 	import watercolor.elements.Rect;
 
-	public class ArrangeExecuteTests
+	public class ArrangeExecuteTest
 	{
 		public var element:Element;
 

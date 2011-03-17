@@ -4,14 +4,12 @@ package flexUnitTests.commands.execUtils
 	
 	import mx.core.IVisualElement;
 	
-	import org.hamcrest.mxml.object.Null;
-	
 	import watercolor.utils.ExecuteUtil;
 	import watercolor.commands.vo.PropertyVO;
 	import watercolor.elements.Element;
 	import watercolor.elements.Rect;
 
-	public class PropertyExecuteTests
+	public class PropertyExecuteTest
 	{
 		public var vo:PropertyVO;
 

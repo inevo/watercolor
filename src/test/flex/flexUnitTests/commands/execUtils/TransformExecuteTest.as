@@ -8,7 +8,7 @@ package flexUnitTests.commands.execUtils
 	import watercolor.elements.Rect;
 	import watercolor.utils.ExecuteUtil;
 
-	public class TransformExecuteTests
+	public class TransformExecuteTest
 	{
 		public var element:Rect;
 

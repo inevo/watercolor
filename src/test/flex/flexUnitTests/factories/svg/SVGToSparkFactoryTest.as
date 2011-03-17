@@ -50,7 +50,7 @@ package flexUnitTests.factories.svg
 	import watercolor.factories.svg.graphics.RadialGradientFactory;
 	import watercolor.factories.svg.util.URIManager;
 
-	public class SVGToSparkFactoryTests
+	public class SVGToSparkFactoryTest
 	{		
 		[Before]
 		public function setUp():void

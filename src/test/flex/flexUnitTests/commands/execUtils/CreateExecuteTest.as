@@ -13,7 +13,7 @@ package flexUnitTests.commands.execUtils
 	import watercolor.elements.Layer;
 	import watercolor.elements.Rect;
 
-	public class CreateExecuteTests
+	public class CreateExecuteTest
 	{
 		public var element:Element;
 
